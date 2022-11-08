@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
 
       <h1 className = 'text-3xl font-bold'>Next Tailwind</h1>
+      <h1 className = 'text-3xl font-bold'>Ecommerce</h1>
       
 
       
